@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on tvb-ext-xircuits, vbi <br>👯 I’m looking to collaborate on Open Source Guide<br>🤝 I’m looking for help with Web Dev Issues<br>🌱 I’m currently learning JavaScript<br>
+🔭 I’m currently working on tvb-ext-xircuits, vbi <br>👯 I’m looking to collaborate on Open Source Guide<br>🤝 I’m looking for help with Web Dev Issues<br>🌱 I’m currently learning DSA<br>
 
 
 ## 🌐 Socials:
